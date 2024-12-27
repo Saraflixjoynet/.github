@@ -28,7 +28,8 @@ A navegação é fluida e otimizada para telas sensíveis ao toque, o que garant
 
 O Saraflix APK é uma excelente opção para quem busca uma plataforma de streaming gratuita para Android. Com gráficos agradáveis, uma ampla gama de recursos e uma interface bem projetada, ele atende às necessidades de usuários modernos. A última versão de 2025 consolidou ainda mais sua posição como um aplicativo indispensável para entretenimento mobile. Se você procura um aplicativo completo e funcional, o Saraflix APK é definitivamente uma escolha a considerar.
 <!--
-
+## Certifications
+[View Google Certification](googlec56c3af4260dac26.html)
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
